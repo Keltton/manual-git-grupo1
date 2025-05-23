@@ -16,7 +16,7 @@
 
 Keltton Felipe Alves Silveira - https://github.com/Keltton - Comandos Básicos
 
-Renan Oliveira - 
+Renan dos Santos Oliveira - https://github.com/Renan0204 - GitHub e Pull Requests
 
 Heitor Corrêa - 
 
