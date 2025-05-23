@@ -70,22 +70,6 @@
 
 #### Agora vamos aprender sobre os repositórios
 
-## Git clone "url"
-
-* Vai clonar o repósitorio do github especificado pela "url", vai clonar o repositório dentro da pasta que foi feito o "git clone" 
-* Note que:
-1. Não é necessário utilizar o coódigo "Git init" em repositórios clonados
-
-2. Como o git cria uma pasta com o repositório, não esqueça de utilizar o comando "CD "Endereço da pasta local do repositório" para entrar dentro da pasta respectiva do repositório.
-
-![Utilizando o Git clone](./imagens/Comandos_Básicos/Repositórios/CB_Exemplo1.png)
-
-* Como pode ver, o git clonou o repositório deste projeto dentro do projetoExemplo, e note: 
-
-![Pasta clonada do repositório remoto](./imagens/Comandos_Básicos/Repositórios/CB_Exemplo2.png)
-
-* O git bash criou uma pasta com o nosso projeto, dentro da pasta ProjetoExemplo
-
 ## Git remote add origin "url"
 
 #### Este comando irá linkar o seu projeto local com um projeto remoto, seu objetivo principal é criar uma ponte entre seu projeto local e remoto
