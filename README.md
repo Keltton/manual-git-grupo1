@@ -22,6 +22,6 @@ Heitor Corrêa -
 
 Gabriel - 
 
-Geovane Quinhone - 
+Claudio R - 
 
 Alexandre Aizono - https://github.com/Xandy24-ai - Git Branch
