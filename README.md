@@ -20,7 +20,7 @@ Renan dos Santos Oliveira - https://github.com/Renan0204 - GitHub e Pull Request
 
 Heitor Corrêa - 
 
-Gabriel - 
+Gabriel Oliveira - https://github.com/Gapezzz
 
 Claudio R - 
 
