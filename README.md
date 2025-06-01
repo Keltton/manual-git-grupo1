@@ -10,9 +10,9 @@
 
 ### [3. Comandos Básicos](./ComandosBasicos.md)
 
-### [4. Branchs] (./branches.md)
+### [4. Branchs](./branches.md)
 
-### [4. Ramificacoes] (./ramificacoes-merge.md)
+### [4. Ramificacoes](./ramificacoes-merge.md)
 
 ### [5. Github e Pull Requests](./github.md)
 
